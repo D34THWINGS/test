@@ -1,0 +1,7 @@
+{
+  "email": "john@doe.fr",
+  "password": "test1234",
+  "displayName": "John Doe",
+  "age": 42,
+  "photoURL": "https://example.com/john-doe/photo.png"
+}
